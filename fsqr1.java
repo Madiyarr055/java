@@ -1,0 +1,2 @@
+public class fsqr1 {
+}
